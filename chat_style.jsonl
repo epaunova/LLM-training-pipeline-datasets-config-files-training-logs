@@ -1,0 +1,1 @@
+{"messages": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "What's the weather like in Seoul?"}, {"role": "assistant", "content": "Today's weather in Seoul is sunny with a high of 22\u00b0C."}]}

@@ -1,0 +1,1 @@
+{"prompt": "Write a Python function to compute the factorial of a number.", "completion": "def factorial(n): return 1 if n == 0 else n * factorial(n - 1)"}
